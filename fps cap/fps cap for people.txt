@@ -1,0 +1,3 @@
+//fps_max 60 for people
+//fps_max 121 for people with 60 hz desktop
+//fps_max 300 for people with a very good desktop
