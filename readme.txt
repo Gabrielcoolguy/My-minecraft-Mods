@@ -1,1 +1,0 @@
-for competitive players and pub players
